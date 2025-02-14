@@ -8,7 +8,9 @@ version = "1.0.0"
 description = "Python tools for analyzing Callisto solar radio spectrometer data"
 readme = "README.md"
 authors = [
-    {name = "Ravi Pawase", email = "your_email@example.com"}
+    {name = "Ravindra Pawase", email = "ravi.pawase@gmail.com"}
+    {name = "K. Sasikumar Raja", email = "sasikumarraja@gmail.com"}
+    
 ]
 license = {file = "LICENSE"}
 keywords = ["astronomy", "solar radio", "spectrometer", "data analysis"]
