@@ -10,22 +10,21 @@ https://pypi.org/project/pyCallisto/
 # Pre-requisites and Standard Python Libraries 
 
     python 3.6,
-    numpy,
+    numpy<=1.26,
     matplotlib,
     astropy.
 
 # Contributors
 
     Mr. Ravindra Pawase, 
-    Team Lead (Machine Learning), 
-    Persistent Systems, 
+    Data Scientist, 
+    Cummins.inc, 
     Pune-411 004, India.
     
     Dr. K. Sasikumar Raja, 
-    National Post Doctoral Fellow, 
-    Deparment of Physics, 
-    Indian Institute of Science Education and Research, 
-    Dr. Homi Bhabha Road, Pashan, Pune-411 008, India.
+    Assistant Professor, 
+    Indian Institute Astrophysics, 
+    II Block,Koramangla,Bengaluru-560 034,India.
 
 # Feedback
 
